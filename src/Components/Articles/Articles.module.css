@@ -1,0 +1,57 @@
+.featuresection{
+    background-color: var(--Very-Light-Gray);
+    padding: 50px 170px;
+
+}
+.featuresection h1{
+    font-weight: 300;
+}
+
+
+
+.features{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 40px;
+    margin-top: 50px;
+
+}
+
+.eachfeature{
+    width: 700px;
+    background-color: var(--White);
+   
+    padding-right: 10px;
+}
+
+.eachfeature p,
+h1{
+    width: 100%;
+    
+}
+
+.eachfeature h1{
+    font-weight: 300;
+    font-size: 22px;
+}
+
+.eachfeature p{
+    color: var(--Grayish-Blue);
+    font-size: 16px;
+    padding-left: 10px;
+    padding-right: 20px;
+}
+
+.eachfeature img{
+    width: 100%;
+    height: 100%;
+}
+
+.eachfeature h2
+{
+    padding: 0px 22px;
+    font-weight: 10;
+    font-size: large;
+    
+}

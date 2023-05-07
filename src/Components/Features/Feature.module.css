@@ -1,0 +1,39 @@
+.featuresection{
+    background-color: var(--Light-Grayish-Blue);
+    padding: 50px 170px;
+
+}
+.featuresection h1{
+    font-weight: 300;
+}
+
+
+
+
+.features{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 40px;
+    margin-top: 50px;
+
+}
+
+.eachfeature{
+    width: 400px;
+
+}
+
+.eachfeature p,
+h1{
+    width: 100%;
+}
+
+.eachfeature h1{
+    font-weight: 300;
+    font-size: 28px;
+}
+
+.eachfeature p{
+    color: var(--Grayish-Blue);
+}
